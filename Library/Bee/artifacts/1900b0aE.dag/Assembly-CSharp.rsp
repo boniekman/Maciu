@@ -386,13 +386,15 @@
 "Assets/AssetPacks/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/AssetPacks/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/AssetPacks/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/Bank/Bank.cs"
 "Assets/Enemy/Enemy.cs"
 "Assets/Enemy/EnemyHealth.cs"
 "Assets/Enemy/EnemyMover.cs"
 "Assets/Enemy/ObjectPool.cs"
-"Assets/Tile/CoordinateLabeler.cs"
-"Assets/Tile/Waypoint.cs"
+"Assets/Environment/CoordinateLabeler.cs"
+"Assets/Environment/Waypoint.cs"
 "Assets/Tower/TargetLocator.cs"
+"Assets/Tower/Tower.cs"
 -langversion:9.0
 
 /deterministic
