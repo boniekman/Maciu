@@ -393,6 +393,8 @@
 "Assets/Enemy/ObjectPool.cs"
 "Assets/Environment/CoordinateLabeler.cs"
 "Assets/Environment/Waypoint.cs"
+"Assets/Pathfinding/GridManager.cs"
+"Assets/Pathfinding/Node.cs"
 "Assets/Tower/TargetLocator.cs"
 "Assets/Tower/Tower.cs"
 -langversion:9.0
